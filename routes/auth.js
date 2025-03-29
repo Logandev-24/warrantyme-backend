@@ -1,28 +1,26 @@
-import express from "express";
-import passport from "passport";
-import jwt from "jsonwebtoken";
-import dotenv from "dotenv";
+// const axios = require("axios");
+// const User = require("../models/User");
 
-dotenv.config();
-const router = express.Router();
+// const refreshAccessToken = async (userId, refreshToken) => {
+//   try {
+//     const response = await axios.post("https://oauth2.googleapis.com/token", {
+//       client_id: process.env.GOOGLE_CLIENT_ID,
+//       client_secret: process.env.GOOGLE_CLIENT_SECRET,
+//       refresh_token: refreshToken,
+//       grant_type: "refresh_token",
+//     });
 
-// Google OAuth Login
-router.get("/google", passport.authenticate("google", { scope: ["profile", "email"] }));
+//     const newAccessToken = response.data.access_token;
+    
+//     // ✅ Update user's access token in DB
+//     await User.findByIdAndUpdate(userId, { accessToken: newAccessToken });
 
-// Google OAuth Callback
-router.get(
-  "/google/callback",
-  passport.authenticate("google", { failureRedirect: "/login" }),
-  (req, res) => {
-    const token = jwt.sign({ id: req.user.id }, process.env.JWT_SECRET, { expiresIn: "1d" });
-    res.redirect(`http://localhost:5173/dashboard?token=${token}`);
-  }
-);
+//     console.log("🔄 Access token refreshed successfully!");
+//     return newAccessToken;
+//   } catch (error) {
+//     console.error("❌ Error refreshing access token:", error.response?.data || error.message);
+//     return null;
+//   }
+// };
 
-// Logout Route
-router.get("/logout", (req, res) => {
-  req.logout(() => {});
-  res.json({ message: "Logged out" });
-});
-
-export default router;
+// module.exports = { refreshAccessToken };

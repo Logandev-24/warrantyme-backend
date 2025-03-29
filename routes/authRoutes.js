@@ -9,20 +9,21 @@ const router = express.Router();
 // 🔹 Google OAuth Login Route
 router.get(
   "/google",
-  (req, res, next) => {
-    logger.info("🌐 Google OAuth Login Attempt");
-    next();
-  },
-  passport.authenticate("google", { scope: ["profile", "email"] })
+  passport.authenticate("google", {
+    scope: [
+      "profile",
+      "email",
+      "https://www.googleapis.com/auth/drive.file",
+      "https://www.googleapis.com/auth/drive.metadata.readonly",
+    ],
+    accessType: "offline", // ✅ Request refresh token
+    prompt: "consent", // ✅ Force Google to reissue refresh token
+  })
 );
 
 // 🔹 Google OAuth Callback Route
 router.get(
   "/google/callback",
-  (req, res, next) => {
-    logger.info("✅ Google OAuth Callback Triggered");
-    next();
-  },
   passport.authenticate("google", {
     failureRedirect: "/auth/failure",
     session: false,

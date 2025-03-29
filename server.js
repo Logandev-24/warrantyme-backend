@@ -4,6 +4,7 @@ const session = require("express-session");
 const passport = require("passport");
 const connectDB = require("./config/db");
 const authRoutes = require("./routes/authRoutes");
+const driveRoutes = require("./routes/driveRoutes");
 const healthRoutes = require("./routes/healthRoutes");
 const logger = require("./utils/logger");
 const morgan = require("morgan");
@@ -50,6 +51,7 @@ app.use(passport.session());
 
 // ✅ Routes
 app.use("/auth", authRoutes);
+app.use("/drive", driveRoutes);
 app.use("/", healthRoutes);
 
 // ✅ Global Error Handling Middleware (Move it here)
