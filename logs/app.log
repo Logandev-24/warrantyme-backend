@@ -1,0 +1,199 @@
+2025-03-29T03:37:12.218Z [32minfo[39m: Server running on port 5000
+2025-03-29T03:37:35.498Z [32minfo[39m: Server running on port 5000
+2025-03-29T03:38:10.246Z [32minfo[39m: Server running on port 5000
+2025-03-29T03:38:20.920Z [32minfo[39m: Server running on port 5000
+2025-03-29T03:38:21.564Z [32minfo[39m: MongoDB Connected Successfully
+2025-03-29T03:38:33.495Z [32minfo[39m: Server running on port 5000
+2025-03-29T03:38:33.979Z [32minfo[39m: MongoDB Connected Successfully
+2025-03-29T03:38:49.878Z [32minfo[39m: Server running on port 5000
+2025-03-29T03:38:50.383Z [32minfo[39m: MongoDB Connected Successfully
+2025-03-29T03:39:02.935Z [32minfo[39m: Server running on port 5000
+2025-03-29T03:39:03.422Z [32minfo[39m: MongoDB Connected Successfully
+2025-03-29T04:55:59.986Z [32minfo[39m: 🚀 Server running on port 5000
+2025-03-29T04:56:00.876Z [32minfo[39m: MongoDB Connected Successfully
+2025-03-29T04:56:34.388Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T04:56:35.128Z [INFO]: MongoDB Connected Successfully
+2025-03-29T04:56:43.206Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T04:56:44.973Z [INFO]: MongoDB Connected Successfully
+2025-03-29T04:56:51.659Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T04:56:53.684Z [INFO]: MongoDB Connected Successfully
+2025-03-29T04:56:59.852Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T04:57:01.762Z [INFO]: MongoDB Connected Successfully
+2025-03-29T04:57:16.854Z [INFO]: ::1 - - [29/Mar/2025:04:57:16 +0000] "GET / HTTP/1.1" 404 139 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T04:57:50.128Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T04:57:50.877Z [INFO]: ::1 - - [29/Mar/2025:04:57:50 +0000] "GET / HTTP/1.1" 200 17 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T04:57:50.908Z [INFO]: MongoDB Connected Successfully
+2025-03-29T04:57:56.561Z [INFO]: ::1 - - [29/Mar/2025:04:57:56 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:00:12.527Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T05:00:14.991Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T05:00:15.402Z [INFO]: MongoDB Connected Successfully
+2025-03-29T05:00:18.526Z [INFO]: ::1 - - [29/Mar/2025:05:00:18 +0000] "GET / HTTP/1.1" 200 58 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:00:42.061Z [32minfo[39m: 🚀 Server running on port 5000
+2025-03-29T05:00:42.744Z [32minfo[39m: MongoDB Connected Successfully
+2025-03-29T05:00:45.839Z [32minfo[39m: ::1 - - [29/Mar/2025:05:00:45 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:00:53.490Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T05:00:54.289Z [INFO]: MongoDB Connected Successfully
+2025-03-29T05:04:39.821Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T05:04:40.583Z [INFO]: MongoDB Connected Successfully
+2025-03-29T05:08:04.081Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:08:04.082Z [ERROR]: Error: Unknown authentication strategy "google" - GET /auth/google
+2025-03-29T05:08:04.085Z [INFO]: ::1 - - [29/Mar/2025:05:08:04 +0000] "GET /auth/google HTTP/1.1" 500 70 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:08:29.814Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:08:29.815Z [ERROR]: Error: Unknown authentication strategy "google" - GET /auth/google
+2025-03-29T05:08:29.817Z [INFO]: ::1 - - [29/Mar/2025:05:08:29 +0000] "GET /auth/google HTTP/1.1" 500 70 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:10:08.313Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T05:10:09.813Z [INFO]: MongoDB Connected Successfully
+2025-03-29T05:10:22.655Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T05:10:23.922Z [INFO]: MongoDB Connected Successfully
+2025-03-29T05:10:24.786Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:10:24.787Z [ERROR]: Error: Unknown authentication strategy "google" - GET /auth/google
+2025-03-29T05:10:24.794Z [INFO]: ::1 - - [29/Mar/2025:05:10:24 +0000] "GET /auth/google HTTP/1.1" 500 70 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:11:23.957Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:11:23.960Z [ERROR]: Error: Unknown authentication strategy "google" - GET /auth/google
+2025-03-29T05:11:23.965Z [INFO]: ::1 - - [29/Mar/2025:05:11:23 +0000] "GET /auth/google HTTP/1.1" 500 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:11:27.461Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:11:27.462Z [ERROR]: Error: Unknown authentication strategy "google" - GET /auth/google
+2025-03-29T05:11:27.464Z [INFO]: ::1 - - [29/Mar/2025:05:11:27 +0000] "GET /auth/google HTTP/1.1" 500 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:14:00.538Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T05:14:03.273Z [INFO]: MongoDB Connected Successfully
+2025-03-29T05:15:34.227Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T05:15:35.119Z [INFO]: MongoDB Connected Successfully
+2025-03-29T05:15:45.835Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T05:15:47.217Z [INFO]: MongoDB Connected Successfully
+2025-03-29T05:15:54.009Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:15:54.017Z [INFO]: ::1 - - [29/Mar/2025:05:15:54 +0000] "GET /auth/google HTTP/1.1" 500 1530 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:15:54.300Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:15:54.305Z [INFO]: ::1 - - [29/Mar/2025:05:15:54 +0000] "GET /auth/google HTTP/1.1" 500 1530 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:17:24.618Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T05:17:25.402Z [INFO]: MongoDB Connected Successfully
+2025-03-29T05:17:29.608Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:17:29.611Z [INFO]: ::1 - - [29/Mar/2025:05:17:29 +0000] "GET /auth/google HTTP/1.1" 302 0 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:18:03.513Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:18:03.516Z [INFO]: ::1 - - [29/Mar/2025:05:18:03 +0000] "GET /auth/google HTTP/1.1" 302 0 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:18:10.849Z [INFO]: ✅ Google OAuth Callback Triggered
+2025-03-29T05:18:11.214Z [INFO]: ✅ User Authenticated: thelogandev@gmail.com
+2025-03-29T05:18:11.215Z [ERROR]: 🚨 Error in Login Success: secretOrPrivateKey must have a value
+2025-03-29T05:18:11.217Z [INFO]: ::1 - - [29/Mar/2025:05:18:11 +0000] "GET /auth/google/callback?code=4%2F0AQSTgQGfK4FHUMJxxq0jtAWu-uCpogvsGp8hYM1OgbLKN36RWUxm31yYKlLMqbEcXgnRhg&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=consent HTTP/1.1" 500 51 "https://accounts.google.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:20:04.755Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T05:20:05.603Z [INFO]: MongoDB Connected Successfully
+2025-03-29T05:20:42.412Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:20:42.415Z [INFO]: ::1 - - [29/Mar/2025:05:20:42 +0000] "GET /auth/google HTTP/1.1" 302 0 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:20:42.712Z [INFO]: ✅ Google OAuth Callback Triggered
+2025-03-29T05:20:43.064Z [INFO]: ✅ User Authenticated: thelogandev@gmail.com
+2025-03-29T05:20:43.078Z [INFO]: 🔑 JWT Token Generated
+2025-03-29T05:20:43.083Z [INFO]: ::1 - - [29/Mar/2025:05:20:43 +0000] "GET /auth/google/callback?code=4%2F0AQSTgQGm9KupgQz5QKVfwSxSaa6sCnrGnR2M-3ni6NaW8P1NA42kvd0WbYVIri2WW9v2ww&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none HTTP/1.1" 302 265 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:20:43.092Z [INFO]: ::1 - - [29/Mar/2025:05:20:43 +0000] "GET /auth/google/undefined/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2N2U2OWVmYzM4Yzc2NGI3N2MzMmNlMjciLCJlbWFpbCI6InRoZWxvZ2FuZGV2QGdtYWlsLmNvbSIsImlhdCI6MTc0MzIyNTY0MywiZXhwIjoxNzQzMjI5MjQzfQ.vq8u3jKPWKFEa-h7c8HCT__LbEzebwNnTNcem0qjVeE HTTP/1.1" 404 161 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:21:39.016Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:21:39.017Z [INFO]: ::1 - - [29/Mar/2025:05:21:39 +0000] "GET /auth/google HTTP/1.1" 302 0 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:21:39.298Z [INFO]: ✅ Google OAuth Callback Triggered
+2025-03-29T05:21:39.611Z [INFO]: ✅ User Authenticated: thelogandev@gmail.com
+2025-03-29T05:21:39.615Z [INFO]: 🔑 JWT Token Generated
+2025-03-29T05:21:39.618Z [INFO]: ::1 - - [29/Mar/2025:05:21:39 +0000] "GET /auth/google/callback?code=4%2F0AQSTgQHHeWB3G6s6hZW_ZNCtbRx-QkmlqbhlyPKzRebhMibOcC57L9fyEiBcW4FL1EN9Pg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=none HTTP/1.1" 302 265 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:21:39.627Z [INFO]: ::1 - - [29/Mar/2025:05:21:39 +0000] "GET /auth/google/undefined/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2N2U2OWVmYzM4Yzc2NGI3N2MzMmNlMjciLCJlbWFpbCI6InRoZWxvZ2FuZGV2QGdtYWlsLmNvbSIsImlhdCI6MTc0MzIyNTY5OSwiZXhwIjoxNzQzMjI5Mjk5fQ.C8xq9eTuvQohXgiTKqFlOI8IsSggbFydR5q_SuQVOQ8 HTTP/1.1" 404 161 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:22:32.234Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:22:32.235Z [INFO]: ::1 - - [29/Mar/2025:05:22:32 +0000] "GET /auth/google HTTP/1.1" 302 0 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:26:51.699Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T05:26:53.235Z [INFO]: MongoDB Connected Successfully
+2025-03-29T05:27:00.974Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:27:00.977Z [INFO]: ::1 - - [29/Mar/2025:05:27:00 +0000] "GET /auth/google HTTP/1.1" 302 0 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:27:01.252Z [INFO]: ✅ Google OAuth Callback Triggered
+2025-03-29T05:27:01.632Z [INFO]: ✅ User Authenticated: thelogandev@gmail.com
+2025-03-29T05:27:01.633Z [ERROR]: 🚨 FRONTEND_URL is missing in .env
+2025-03-29T05:27:01.634Z [INFO]: ::1 - - [29/Mar/2025:05:27:01 +0000] "GET /auth/google/callback?code=4%2F0AQSTgQFQ5KM92e9ikxmc9A5evto9OK07TcnL5X02KZtQnhwUgxL17Rj__YtUuU1VN-M6rw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none HTTP/1.1" 500 51 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:28:14.144Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T05:28:15.903Z [INFO]: MongoDB Connected Successfully
+2025-03-29T05:28:17.012Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T05:28:17.421Z [INFO]: MongoDB Connected Successfully
+2025-03-29T05:28:28.156Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:28:28.165Z [INFO]: ::1 - - [29/Mar/2025:05:28:28 +0000] "GET /auth/google HTTP/1.1" 302 0 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:28:28.469Z [INFO]: ✅ Google OAuth Callback Triggered
+2025-03-29T05:28:28.816Z [INFO]: ✅ User Authenticated: thelogandev@gmail.com
+2025-03-29T05:28:28.822Z [INFO]: 🔑 JWT Token Generated Successfully
+2025-03-29T05:28:28.830Z [INFO]: ::1 - - [29/Mar/2025:05:28:28 +0000] "GET /auth/google/callback?code=4%2F0AQSTgQEAG_MM4vbcJtLpwX80fCcWzFJ0-RF1wvgtDmtinECqR0XxM50rGhv4ANPFP7A_eg&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none HTTP/1.1" 302 286 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:31:43.511Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:31:43.513Z [INFO]: ::1 - - [29/Mar/2025:05:31:43 +0000] "GET /auth/google HTTP/1.1" 302 0 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:31:43.737Z [INFO]: ✅ Google OAuth Callback Triggered
+2025-03-29T05:31:44.230Z [INFO]: ✅ User Authenticated: thelogandev@gmail.com
+2025-03-29T05:31:44.234Z [INFO]: 🔑 JWT Token Generated Successfully
+2025-03-29T05:31:44.237Z [INFO]: ::1 - - [29/Mar/2025:05:31:44 +0000] "GET /auth/google/callback?code=4%2F0AQSTgQGPkNb7oomn_VFNcT06LayKIc3ZCErzQ5WehCzLhgWiIN5yMoyppUDBYOGgC8Helg&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none HTTP/1.1" 302 286 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:33:14.299Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:33:14.300Z [INFO]: ::1 - - [29/Mar/2025:05:33:14 +0000] "GET /auth/google HTTP/1.1" 302 0 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:33:14.544Z [INFO]: ✅ Google OAuth Callback Triggered
+2025-03-29T05:33:14.847Z [INFO]: ✅ User Authenticated: thelogandev@gmail.com
+2025-03-29T05:33:14.850Z [INFO]: 🔑 JWT Token Generated Successfully
+2025-03-29T05:33:14.852Z [INFO]: ::1 - - [29/Mar/2025:05:33:14 +0000] "GET /auth/google/callback?code=4%2F0AQSTgQEAK7A3927wxXyp9Th-dMW-xi4vULqN9tH2NFnOuE9t2XnI7hi4CkCxW1G7xdfVSA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none HTTP/1.1" 302 286 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:35:50.575Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T05:35:51.597Z [INFO]: MongoDB Connected Successfully
+2025-03-29T05:36:09.820Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:36:09.823Z [INFO]: ::1 - - [29/Mar/2025:05:36:09 +0000] "GET /auth/google HTTP/1.1" 302 0 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:36:10.042Z [INFO]: ✅ Google OAuth Callback Triggered
+2025-03-29T05:36:10.410Z [INFO]: ✅ User Authenticated: thelogandev@gmail.com
+2025-03-29T05:36:10.415Z [INFO]: 🔑 JWT Token Generated Successfully
+2025-03-29T05:36:10.418Z [INFO]: ::1 - - [29/Mar/2025:05:36:10 +0000] "GET /auth/google/callback?code=4%2F0AQSTgQGJY9aDz0i-3CA6nj0HKCw4p8wj7I0LQWCZuk0p88m5IPDZH87SkJA45kGwS_MrsQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none HTTP/1.1" 302 286 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:37:07.037Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T05:37:07.623Z [INFO]: MongoDB Connected Successfully
+2025-03-29T05:37:11.032Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:37:11.035Z [INFO]: ::1 - - [29/Mar/2025:05:37:11 +0000] "GET /auth/google HTTP/1.1" 302 0 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:37:11.316Z [INFO]: ✅ Google OAuth Callback Triggered
+2025-03-29T05:37:11.666Z [INFO]: ✅ User Authenticated: thelogandev@gmail.com
+2025-03-29T05:37:11.669Z [INFO]: 🔑 JWT Token Generated Successfully
+2025-03-29T05:37:11.671Z [INFO]: ::1 - - [29/Mar/2025:05:37:11 +0000] "GET /auth/google/callback?code=4%2F0AQSTgQEPs63--ti6wUIhPBJz2MAc8k5bxO7fq4vB79-foUdz_bbgO20ZGi0kld4WsM1Ing&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none HTTP/1.1" 302 60 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:37:26.732Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T05:37:27.329Z [INFO]: MongoDB Connected Successfully
+2025-03-29T05:38:39.733Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:38:39.736Z [INFO]: ::1 - - [29/Mar/2025:05:38:39 +0000] "GET /auth/google HTTP/1.1" 302 0 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:38:39.975Z [INFO]: ✅ Google OAuth Callback Triggered
+2025-03-29T05:38:40.289Z [INFO]: ✅ User Authenticated: thelogandev@gmail.com
+2025-03-29T05:38:40.291Z [INFO]: 🔑 JWT Token Generated Successfully
+2025-03-29T05:38:40.294Z [INFO]: ::1 - - [29/Mar/2025:05:38:40 +0000] "GET /auth/google/callback?code=4%2F0AQSTgQFQxkFp4o7cbITu6qPe-KAWsvgrB0JnUpZzf1lbvAYs0tjMZ-iVoWSzAsAp8JPLBw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none HTTP/1.1" 302 286 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:39:29.459Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T05:39:31.055Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T05:39:31.466Z [INFO]: MongoDB Connected Successfully
+2025-03-29T05:41:49.798Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:41:49.802Z [INFO]: ::1 - - [29/Mar/2025:05:41:49 +0000] "GET /auth/google HTTP/1.1" 302 0 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:41:50.177Z [INFO]: ✅ Google OAuth Callback Triggered
+2025-03-29T05:41:50.527Z [INFO]: ✅ User Authenticated: thelogandev@gmail.com
+2025-03-29T05:41:50.530Z [INFO]: 🔑 JWT Token Generated Successfully
+2025-03-29T05:41:50.532Z [INFO]: ::1 - - [29/Mar/2025:05:41:50 +0000] "GET /auth/google/callback?code=4%2F0AQSTgQHSjS_ZMCDEOhGcX8K6D4Ac1RBItMeOiqDiyDXgPU1Ng0AbQWS29HE9-4IMISOyIg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none HTTP/1.1" 302 286 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:43:40.428Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:43:40.429Z [INFO]: ::1 - - [29/Mar/2025:05:43:40 +0000] "GET /auth/google HTTP/1.1" 302 0 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:43:40.738Z [INFO]: ✅ Google OAuth Callback Triggered
+2025-03-29T05:43:41.041Z [INFO]: ✅ User Authenticated: thelogandev@gmail.com
+2025-03-29T05:43:41.043Z [INFO]: 🔑 JWT Token Generated Successfully
+2025-03-29T05:43:41.046Z [INFO]: ::1 - - [29/Mar/2025:05:43:41 +0000] "GET /auth/google/callback?code=4%2F0AQSTgQGDq4FYdMOcWVZe_VT1tx4CaS_9hn_jV5yhTG-TVd3ARRbEgSq9ftVDioLkX6UZBw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none HTTP/1.1" 302 286 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:45:20.764Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T05:45:21.911Z [INFO]: MongoDB Connected Successfully
+2025-03-29T05:45:29.926Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:45:29.930Z [INFO]: ::1 - - [29/Mar/2025:05:45:29 +0000] "GET /auth/google HTTP/1.1" 302 0 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:45:30.183Z [INFO]: ✅ Google OAuth Callback Triggered
+2025-03-29T05:45:30.532Z [INFO]: ✅ User Authenticated: thelogandev@gmail.com
+2025-03-29T05:45:30.536Z [INFO]: 🔑 JWT Token Generated Successfully: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2N2U2OWVmYzM4Yzc2NGI3N2MzMmNlMjciLCJlbWFpbCI6InRoZWxvZ2FuZGV2QGdtYWlsLmNvbSIsImlhdCI6MTc0MzIyNzEzMCwiZXhwIjoxNzQzMjMwNzMwfQ.DCxmzjl-xQv7hM21S4wz5SFwRftck6jLSmlY2mQlLuA
+2025-03-29T05:45:30.537Z [INFO]: 🔄 Redirecting to: http://localhost:5173/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2N2U2OWVmYzM4Yzc2NGI3N2MzMmNlMjciLCJlbWFpbCI6InRoZWxvZ2FuZGV2QGdtYWlsLmNvbSIsImlhdCI6MTc0MzIyNzEzMCwiZXhwIjoxNzQzMjMwNzMwfQ.DCxmzjl-xQv7hM21S4wz5SFwRftck6jLSmlY2mQlLuA
+2025-03-29T05:45:30.539Z [INFO]: ::1 - - [29/Mar/2025:05:45:30 +0000] "GET /auth/google/callback?code=4%2F0AQSTgQG4LeCZm1XhBsVeY3WbImcDdDOT-3pyx6bA58xx3P1n_i4mo18CRNx4-tA1AOquCw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none HTTP/1.1" 302 277 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:45:30.915Z [INFO]: ::1 - - [29/Mar/2025:05:45:30 +0000] "OPTIONS /auth/validate-token HTTP/1.1" 204 0 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:45:30.918Z [INFO]: ::1 - - [29/Mar/2025:05:45:30 +0000] "OPTIONS /auth/validate-token HTTP/1.1" 204 0 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:45:30.922Z [INFO]: ✅ Token valid for user: thelogandev@gmail.com
+2025-03-29T05:45:30.924Z [INFO]: ::1 - - [29/Mar/2025:05:45:30 +0000] "GET /auth/validate-token HTTP/1.1" 200 127 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:45:30.926Z [INFO]: ✅ Token valid for user: thelogandev@gmail.com
+2025-03-29T05:45:30.927Z [INFO]: ::1 - - [29/Mar/2025:05:45:30 +0000] "GET /auth/validate-token HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:49:22.141Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T05:49:24.431Z [INFO]: MongoDB Connected Successfully
+2025-03-29T05:55:30.615Z [INFO]: ::1 - - [29/Mar/2025:05:55:30 +0000] "OPTIONS /auth/validate-token HTTP/1.1" 204 0 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:55:30.622Z [INFO]: ✅ Token valid for user: thelogandev@gmail.com
+2025-03-29T05:55:30.625Z [INFO]: ::1 - - [29/Mar/2025:05:55:30 +0000] "GET /auth/validate-token HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:55:41.006Z [INFO]: 🌐 Google OAuth Login Attempt
+2025-03-29T05:55:41.008Z [INFO]: ::1 - - [29/Mar/2025:05:55:41 +0000] "GET /auth/google HTTP/1.1" 302 0 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:55:41.213Z [INFO]: ✅ Google OAuth Callback Triggered
+2025-03-29T05:55:41.575Z [INFO]: ✅ User Authenticated: thelogandev@gmail.com
+2025-03-29T05:55:41.579Z [INFO]: 🔑 JWT Token Generated Successfully
+2025-03-29T05:55:41.588Z [INFO]: ::1 - - [29/Mar/2025:05:55:41 +0000] "GET /auth/google/callback?code=4%2F0AQSTgQEtCH0drE8r0TuL56lFzKi-deDsCINBQAMwqEdLx77wOcstxmRFJZBdnU2IJHU3Ng&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none HTTP/1.1" 302 450 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:55:41.981Z [INFO]: ::1 - - [29/Mar/2025:05:55:41 +0000] "OPTIONS /auth/validate-token HTTP/1.1" 204 0 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:55:41.983Z [INFO]: ::1 - - [29/Mar/2025:05:55:41 +0000] "OPTIONS /auth/validate-token HTTP/1.1" 204 0 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:55:41.987Z [INFO]: ✅ Token valid for user: thelogandev@gmail.com
+2025-03-29T05:55:41.989Z [INFO]: ::1 - - [29/Mar/2025:05:55:41 +0000] "GET /auth/validate-token HTTP/1.1" 200 257 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:55:41.992Z [INFO]: ✅ Token valid for user: thelogandev@gmail.com
+2025-03-29T05:55:41.994Z [INFO]: ::1 - - [29/Mar/2025:05:55:41 +0000] "GET /auth/validate-token HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-03-29T05:59:48.343Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T05:59:50.207Z [INFO]: MongoDB Connected Successfully
+2025-03-29T06:00:12.265Z [INFO]: 🚀 Server running on port 5000
+2025-03-29T06:00:14.405Z [INFO]: MongoDB Connected Successfully
